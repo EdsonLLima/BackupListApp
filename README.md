@@ -10,7 +10,7 @@
 <p>
   I have some backup HD's, since before the idea of storing them in the cloud, apart from that for me besides <br>
    not seeing the need for this data to go to the cloud would be an unnecessary expense of money, as it is content <br>
-   particualr that does not add in terms of monetary value, I don't see the need for that, but as there are several HD, <br>
+   particular that does not add in terms of monetary value, I don't see the need for that, but as there are several HD, <br>
    sometimes I need to search for some content and I end up having to search more than 2 times to find the information,<br>
    although I don't always need to use these backups when I need to, I have this headache, so to avoid this <br>
    I'm going to build my App to manage the HDs, so I'll know what data is on each one of them, what will <br>
